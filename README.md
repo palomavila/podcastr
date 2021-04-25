@@ -22,6 +22,14 @@ O Podcastr foi desenvolvido durante a [Next Level Week](https://nextlevelweek.co
 
 - Para conferir, acesse o [FIGMA](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761).
 
+# 💯 Preview:
+
+- Para conferir como ficou, acesse o [Deploy](https://podcastr-pavila.vercel.app/)
+
+# 💻 Demo:
+
+<img src="https://github.com/palomavila/podcastr/blob/main/public/github/screen.gif" title="Screen" />
+
 # 🚀 Start esse projeto:
 
 ```bash
